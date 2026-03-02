@@ -3,7 +3,7 @@
 An AI-powered voice automation solution designed to streamline real estate property visit scheduling through intelligent conversational interactions. The system leverages a VAPI Voice AI Assistant to autonomously handle inbound and outbound calls, engaging prospects in natural, human-like conversations to book appointments seamlessly.
 
 ### Video Link :
-[Video Link]([https://colab.research.google.com/drive/1ozQpwtUEXncnWXd-zOuSkUuRNtSucGnE?authuser=1](https://t90161506940.p.clickup-attachments.com/t90161506940/262bb1fd-af3d-4b2b-89ba-10f4261cf256/Voice%20AI%20Appointment%20Setter.mp4?view=open)
+[Video Demo](https://t90161506940.p.clickup-attachments.com/t90161506940/262bb1fd-af3d-4b2b-89ba-10f4261cf256/Voice%20AI%20Appointment%20Setter.mp4?view=open))\
 
 ## 🎯 Project Overview
 
@@ -27,10 +27,6 @@ The AI assistant can:
 ---
 
 ## 🏗 System Architecture
-
-<br>
-<img src="images/System Architecture.png" width="900" height="500">
-<br>
 
 Architecture Flow :
 
