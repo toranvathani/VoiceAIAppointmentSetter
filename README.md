@@ -30,15 +30,5 @@ The AI assistant can:
 
 Architecture Flow :
 
-User Voice Call
-↓
-VAPI AI Assistant
-↓
-API Request Tool
-↓
-Node.js Backend Server
-↓
-Google OAuth Authentication
-↓
-Google Calendar Event Creation
+User Voice Call -> VAPI AI Assistant -> API Request Tool -> Node.js Backend Server -> Google OAuth Authentication -> Google Calendar Event Creation
 
